@@ -11,12 +11,13 @@ import org.apache.flink.streaming.api.functions.KeyedProcessFunction;
  * 2020/9/28
  **/
 public class KeyedProcessFunctionExample {
+
 //    public static void main(String[] args) throws Exception {
 //        StreamExecutionEnvironment env = StreamExecutionEnvironment.getExecutionEnvironment();
 //        env.setParallelism(1);
 //aaa
 //        DataStreamSource<SensorReading> stream = env.addSource(new SensorSource());
-//        stream
+//        streams
 //                .keyBy(r->r.id)
 //                .process(new MyKeyedProFunC())
 //                .print();
