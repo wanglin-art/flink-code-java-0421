@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ff2cfd6-52b4-4044-89a4-91bafec90511" name="Default Changelist" comment="更新">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day03/TempIncreaseAlert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/day03/KeyedProcessFunctionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day03/KeyedProcessFunctionExample.java" afterDir="false" />
-    </list>
+    <list default="true" id="6ff2cfd6-52b4-4044-89a4-91bafec90511" name="Default Changelist" comment="更新" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,7 +162,7 @@
       <workItem from="1601260228455" duration="8437000" />
       <workItem from="1601282192719" duration="1628000" />
       <workItem from="1601286209132" duration="8422000" />
-      <workItem from="1601302542362" duration="909000" />
+      <workItem from="1601302542362" duration="2163000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1601281846638</created>
