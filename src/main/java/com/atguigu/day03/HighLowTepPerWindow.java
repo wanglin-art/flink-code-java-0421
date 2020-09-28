@@ -29,6 +29,7 @@ public class HighLowTepPerWindow {
 
         env.execute();
     }
+    //这是一个注释
     public static class MyAgg implements AggregateFunction<SensorReading, Tuple3<String,Double,Double>,Tuple3<String,Double,Double>>{
 
         @Override
