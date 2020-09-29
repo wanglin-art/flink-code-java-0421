@@ -19,7 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ff2cfd6-52b4-4044-89a4-91bafec90511" name="Default Changelist" comment="更新" />
+    <list default="true" id="6ff2cfd6-52b4-4044-89a4-91bafec90511" name="Default Changelist" comment="更新">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/AscendingTs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/EventTimeTimer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/PeriodicWatermarkGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/RedirectLateEventToSideOutputExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/RedirectLateEventToSideOutputExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/SideOutputExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/SwitchSensorStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/WatermarkBroadcast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/WatermarkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/WindowWatermark.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,13 +81,13 @@
       <recent name="com.atguigu.day02.util" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MinTempWindow">
-    <configuration name="AggregateFunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.day03.AggregateFunctionExample" />
+  <component name="RunManager" selected="Application.SwitchSensorStream">
+    <configuration name="RedirectLateEventToSideOutputExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.day04.RedirectLateEventToSideOutputExample1" />
       <module name="flink-code-java-0421" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.day03.*" />
+          <option name="PATTERN" value="com.atguigu.day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HighLowTepPerWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.day03.HighLowTepPerWindow" />
+    <configuration name="RedirectLateEventToSideOutputExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.day04.RedirectLateEventToSideOutputExample2" />
       <module name="flink-code-java-0421" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.day03.*" />
+          <option name="PATTERN" value="com.atguigu.day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeyedProcessFunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.day03.KeyedProcessFunctionExample" />
+    <configuration name="SideOutputExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.day04.SideOutputExample" />
       <module name="flink-code-java-0421" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.day03.*" />
+          <option name="PATTERN" value="com.atguigu.day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinTempWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.day03.MinTempWindow" />
+    <configuration name="SwitchSensorStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.day04.SwitchSensorStream" />
       <module name="flink-code-java-0421" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.day03.*" />
+          <option name="PATTERN" value="com.atguigu.day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TempIncreaseAlert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.day03.TempIncreaseAlert" />
+    <configuration name="WatermarkBroadcast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.day04.WatermarkBroadcast" />
       <module name="flink-code-java-0421" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.day03.*" />
+          <option name="PATTERN" value="com.atguigu.day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MinTempWindow" />
-        <item itemvalue="Application.AggregateFunctionExample" />
-        <item itemvalue="Application.TempIncreaseAlert" />
-        <item itemvalue="Application.KeyedProcessFunctionExample" />
-        <item itemvalue="Application.HighLowTepPerWindow" />
+        <item itemvalue="Application.SwitchSensorStream" />
+        <item itemvalue="Application.RedirectLateEventToSideOutputExample2" />
+        <item itemvalue="Application.SideOutputExample" />
+        <item itemvalue="Application.RedirectLateEventToSideOutputExample1" />
+        <item itemvalue="Application.WatermarkBroadcast" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +173,8 @@
       <workItem from="1601260228455" duration="8437000" />
       <workItem from="1601282192719" duration="1628000" />
       <workItem from="1601286209132" duration="8422000" />
-      <workItem from="1601302542362" duration="2163000" />
+      <workItem from="1601302542362" duration="3286000" />
+      <workItem from="1601339576163" duration="24356000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1601281846638</created>
@@ -194,20 +206,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="更新" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="686" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1601290332666">
+    <state x="686" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1601382602024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-878" y="391" key="#com.intellij.ide.util.MemberChooser/-1366.312.1366.728/0.0.1920.1040@-1366.312.1366.728" timestamp="1601211165715" />
-    <state x="686" y="113" key="#com.intellij.ide.util.MemberChooser/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601290332666" />
+    <state x="686" y="113" key="#com.intellij.ide.util.MemberChooser/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601382602024" />
     <state x="-953" y="422" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601211131147">
       <screen x="-1366" y="312" width="1366" height="728" />
     </state>
     <state x="-953" y="422" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1366.312.1366.728/0.0.1920.1040@-1366.312.1366.728" timestamp="1601211131147" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1601302572493">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="651" y="169" key="FileChooserDialogImpl" timestamp="1601340075564">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-903" y="430" key="FileChooserDialogImpl/-1366.312.1366.728/0.0.1920.1040@-1366.312.1366.728" timestamp="1601173520363" />
-    <state x="651" y="169" key="FileChooserDialogImpl/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601291842802" />
+    <state x="651" y="169" key="FileChooserDialogImpl/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601340075564" />
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601302572493" />
     <state x="654" y="420" width="465" height="200" key="Github.ShareDialog" timestamp="1601281673828">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -217,26 +229,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="710" y="131" key="Github.UntrackedFilesDialog/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601281686989" />
-    <state width="1877" height="38" key="GridCell.Tab.0.bottom" timestamp="1601299905963">
+    <state width="1877" height="253" key="GridCell.Tab.0.bottom" timestamp="1601383040969">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="2" key="GridCell.Tab.0.bottom/-1366.312.1366.728/0.0.1920.1040@-1366.312.1366.728" timestamp="1601213454489" />
-    <state width="1877" height="38" key="GridCell.Tab.0.bottom/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601299905963" />
-    <state width="1877" height="38" key="GridCell.Tab.0.center" timestamp="1601299905963">
+    <state width="1877" height="253" key="GridCell.Tab.0.bottom/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601383040969" />
+    <state width="1877" height="253" key="GridCell.Tab.0.center" timestamp="1601383040968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="2" key="GridCell.Tab.0.center/-1366.312.1366.728/0.0.1920.1040@-1366.312.1366.728" timestamp="1601213454488" />
-    <state width="1877" height="38" key="GridCell.Tab.0.center/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601299905963" />
-    <state width="1877" height="38" key="GridCell.Tab.0.left" timestamp="1601299905963">
+    <state width="1877" height="253" key="GridCell.Tab.0.center/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601383040968" />
+    <state width="1877" height="253" key="GridCell.Tab.0.left" timestamp="1601383040968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="2" key="GridCell.Tab.0.left/-1366.312.1366.728/0.0.1920.1040@-1366.312.1366.728" timestamp="1601213454488" />
-    <state width="1877" height="38" key="GridCell.Tab.0.left/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601299905963" />
-    <state width="1877" height="38" key="GridCell.Tab.0.right" timestamp="1601299905963">
+    <state width="1877" height="253" key="GridCell.Tab.0.left/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601383040968" />
+    <state width="1877" height="253" key="GridCell.Tab.0.right" timestamp="1601383040969">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="2" key="GridCell.Tab.0.right/-1366.312.1366.728/0.0.1920.1040@-1366.312.1366.728" timestamp="1601213454488" />
-    <state width="1877" height="38" key="GridCell.Tab.0.right/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601299905963" />
+    <state width="1877" height="253" key="GridCell.Tab.0.right/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601383040969" />
     <state x="641" y="235" key="SettingsEditor" timestamp="1601292067088">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
