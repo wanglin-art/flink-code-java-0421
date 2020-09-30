@@ -48,7 +48,6 @@ public class WindowWatermark {
                 .process(new ProcessWindowFunction<Tuple2<String, Long>, String, String, TimeWindow>() {
                     @Override
                     public void process(String s, Context context, Iterable<Tuple2<String, Long>> elements, Collector<String> out) throws Exception {
-                        System.out.println("11111");
                         long count =0L;
                         for (Tuple2<String, Long> element : elements) {
                             count+=1;

@@ -20,16 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ff2cfd6-52b4-4044-89a4-91bafec90511" name="Default Changelist" comment="更新">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/AscendingTs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/EventTimeTimer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/PeriodicWatermarkGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/RedirectLateEventToSideOutputExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/RedirectLateEventToSideOutputExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/SideOutputExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/SwitchSensorStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/WatermarkBroadcast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/WatermarkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/WindowWatermark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/WindowWatermark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day04/WindowWatermark.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +165,7 @@
       <workItem from="1601282192719" duration="1628000" />
       <workItem from="1601286209132" duration="8422000" />
       <workItem from="1601302542362" duration="3286000" />
-      <workItem from="1601339576163" duration="24356000" />
+      <workItem from="1601339576163" duration="27588000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1601281846638</created>
@@ -229,26 +220,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="710" y="131" key="Github.UntrackedFilesDialog/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601281686989" />
-    <state width="1877" height="253" key="GridCell.Tab.0.bottom" timestamp="1601383040969">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="431" key="GridCell.Tab.0.bottom" timestamp="1601396690923">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="2" key="GridCell.Tab.0.bottom/-1366.312.1366.728/0.0.1920.1040@-1366.312.1366.728" timestamp="1601213454489" />
-    <state width="1877" height="253" key="GridCell.Tab.0.bottom/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601383040969" />
-    <state width="1877" height="253" key="GridCell.Tab.0.center" timestamp="1601383040968">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="431" key="GridCell.Tab.0.bottom/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601383139129" />
+    <state width="1877" height="431" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601396690923" />
+    <state width="1877" height="431" key="GridCell.Tab.0.center" timestamp="1601396690923">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="2" key="GridCell.Tab.0.center/-1366.312.1366.728/0.0.1920.1040@-1366.312.1366.728" timestamp="1601213454488" />
-    <state width="1877" height="253" key="GridCell.Tab.0.center/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601383040968" />
-    <state width="1877" height="253" key="GridCell.Tab.0.left" timestamp="1601383040968">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="431" key="GridCell.Tab.0.center/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601383139129" />
+    <state width="1877" height="431" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601396690923" />
+    <state width="1877" height="431" key="GridCell.Tab.0.left" timestamp="1601396690923">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="2" key="GridCell.Tab.0.left/-1366.312.1366.728/0.0.1920.1040@-1366.312.1366.728" timestamp="1601213454488" />
-    <state width="1877" height="253" key="GridCell.Tab.0.left/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601383040968" />
-    <state width="1877" height="253" key="GridCell.Tab.0.right" timestamp="1601383040969">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="431" key="GridCell.Tab.0.left/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601383139129" />
+    <state width="1877" height="431" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601396690923" />
+    <state width="1877" height="431" key="GridCell.Tab.0.right" timestamp="1601396690923">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="2" key="GridCell.Tab.0.right/-1366.312.1366.728/0.0.1920.1040@-1366.312.1366.728" timestamp="1601213454488" />
-    <state width="1877" height="253" key="GridCell.Tab.0.right/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601383040969" />
+    <state width="1877" height="431" key="GridCell.Tab.0.right/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601383139129" />
+    <state width="1877" height="431" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601396690923" />
     <state x="641" y="235" key="SettingsEditor" timestamp="1601292067088">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
