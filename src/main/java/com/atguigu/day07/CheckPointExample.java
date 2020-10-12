@@ -16,9 +16,9 @@ public class CheckPointExample {
         env.setParallelism(1);
 
 
-        env.enableCheckpointing(10 * 1000L);
+        env.enableCheckpointing(5 * 1000L);
 
-        env.setStateBackend(new FsStateBackend("file:///src/main/resources/checkPoints"));
+        env.setStateBackend(new FsStateBackend("file:///E:/ideaproject/flink-code-java-0421/src/main/resources/checkPoints"));
 
         DataStreamSource<SensorReading> stream = env.addSource(new SensorSource());
         stream.print();

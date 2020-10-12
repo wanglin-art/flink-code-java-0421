@@ -20,15 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ff2cfd6-52b4-4044-89a4-91bafec90511" name="Default Changelist" comment="更新">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day07/CheckPointExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day07/LoginEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day07/LoginFailDetect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day07/LoginFailDetectOtherMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day07/LoginFailDetectWithoutCEP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day07/OrderEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day07/OrderTimeoutDetect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day07/OrderTimeoutDetectWithoutCEP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day07/UserBehaviorAnalysis2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day08/AggregateFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day08/AppendModeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day08/EventTimeWindowConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day08/FlinkTableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day08/RetractModeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day08/ScalarFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day08/TableAggregateFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day08/TableFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day08/UserBehaviorAnalysis3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/day07/CheckPointExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/day07/CheckPointExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +75,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gmall_0421-realtime" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
@@ -84,13 +87,13 @@
       <recent name="E:\ideaproject\flink-code-java-0421\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OrderTimeoutDetectWithoutCEP">
-    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.day07.A" />
+  <component name="RunManager" selected="Application.UserBehaviorAnalysis3">
+    <configuration name="AggregateFunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.day08.AggregateFunctionExample" />
       <module name="flink-code-java-0421" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.day07.*" />
+          <option name="PATTERN" value="com.atguigu.day08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginFailDetectOtherMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.day07.LoginFailDetectOtherMethod" />
+    <configuration name="ScalarFunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.day08.ScalarFunctionExample" />
       <module name="flink-code-java-0421" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.day07.*" />
+          <option name="PATTERN" value="com.atguigu.day08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginFailDetectWithoutCEP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.day07.LoginFailDetectWithoutCEP" />
+    <configuration name="TableAggregateFunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.day08.TableAggregateFunctionExample" />
       <module name="flink-code-java-0421" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.day07.*" />
+          <option name="PATTERN" value="com.atguigu.day08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderTimeoutDetect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.day07.OrderTimeoutDetect" />
+    <configuration name="TableFunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.day08.TableFunctionExample" />
       <module name="flink-code-java-0421" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.day07.*" />
+          <option name="PATTERN" value="com.atguigu.day08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderTimeoutDetectWithoutCEP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.day07.OrderTimeoutDetectWithoutCEP" />
+    <configuration name="UserBehaviorAnalysis3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.day08.UserBehaviorAnalysis3" />
       <module name="flink-code-java-0421" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.day07.*" />
+          <option name="PATTERN" value="com.atguigu.day08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OrderTimeoutDetectWithoutCEP" />
-        <item itemvalue="Application.LoginFailDetectWithoutCEP" />
-        <item itemvalue="Application.A" />
-        <item itemvalue="Application.OrderTimeoutDetect" />
-        <item itemvalue="Application.LoginFailDetectOtherMethod" />
+        <item itemvalue="Application.UserBehaviorAnalysis3" />
+        <item itemvalue="Application.TableAggregateFunctionExample" />
+        <item itemvalue="Application.AggregateFunctionExample" />
+        <item itemvalue="Application.TableFunctionExample" />
+        <item itemvalue="Application.ScalarFunctionExample" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +189,10 @@
       <workItem from="1602204185930" duration="11615000" />
       <workItem from="1602237039392" duration="5397000" />
       <workItem from="1602292096620" duration="13599000" />
-      <workItem from="1602378299747" duration="5496000" />
+      <workItem from="1602378299747" duration="5572000" />
+      <workItem from="1602384358013" duration="232000" />
+      <workItem from="1602397988388" duration="5612000" />
+      <workItem from="1602462027104" duration="16026000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1601281846638</created>
@@ -226,22 +232,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="660" y="316" key="#com.intellij.fileTypes.FileTypeChooser/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601472159209" />
-    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1602382245044">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="686" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1602499555664">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-878" y="391" key="#com.intellij.ide.util.MemberChooser/-1366.312.1366.728/0.0.1920.1040@-1366.312.1366.728" timestamp="1601211165715" />
-    <state x="686" y="113" key="#com.intellij.ide.util.MemberChooser/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1602318524285" />
-    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1602382245044" />
+    <state x="686" y="113" key="#com.intellij.ide.util.MemberChooser/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1602499555664" />
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1602408555511" />
     <state x="-953" y="422" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601211131147">
       <screen x="-1366" y="312" width="1366" height="728" />
     </state>
     <state x="-953" y="422" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1366.312.1366.728/0.0.1920.1040@-1366.312.1366.728" timestamp="1601211131147" />
-    <state x="651" y="169" key="FileChooserDialogImpl" timestamp="1602241644853">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1602409929454">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-903" y="430" key="FileChooserDialogImpl/-1366.312.1366.728/0.0.1920.1040@-1366.312.1366.728" timestamp="1601173520363" />
     <state x="651" y="169" key="FileChooserDialogImpl/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1602241644853" />
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601302572493" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602409929454" />
     <state x="654" y="420" width="465" height="200" key="Github.ShareDialog" timestamp="1601281673828">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -250,30 +256,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="710" y="131" key="Github.UntrackedFilesDialog/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1601281686989" />
-    <state width="1323" height="2" key="GridCell.Tab.0.bottom" timestamp="1602383533452">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom" timestamp="1602498423665">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="2" key="GridCell.Tab.0.bottom/-1366.312.1366.728/0.0.1920.1040@-1366.312.1366.728" timestamp="1601213454489" />
-    <state width="1877" height="290" key="GridCell.Tab.0.bottom/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1602320646990" />
-    <state width="1323" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602383533452" />
-    <state width="1323" height="2" key="GridCell.Tab.0.center" timestamp="1602383533452">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1602498423665" />
+    <state width="1323" height="130" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602426649177" />
+    <state width="1877" height="2" key="GridCell.Tab.0.center" timestamp="1602498423664">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="2" key="GridCell.Tab.0.center/-1366.312.1366.728/0.0.1920.1040@-1366.312.1366.728" timestamp="1601213454488" />
-    <state width="1877" height="290" key="GridCell.Tab.0.center/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1602320646989" />
-    <state width="1323" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602383533452" />
-    <state width="1323" height="2" key="GridCell.Tab.0.left" timestamp="1602383533451">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="2" key="GridCell.Tab.0.center/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1602498423664" />
+    <state width="1323" height="130" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602426649177" />
+    <state width="1877" height="2" key="GridCell.Tab.0.left" timestamp="1602498423664">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="2" key="GridCell.Tab.0.left/-1366.312.1366.728/0.0.1920.1040@-1366.312.1366.728" timestamp="1601213454488" />
-    <state width="1877" height="290" key="GridCell.Tab.0.left/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1602320646989" />
-    <state width="1323" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602383533451" />
-    <state width="1323" height="2" key="GridCell.Tab.0.right" timestamp="1602383533452">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="2" key="GridCell.Tab.0.left/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1602498423664" />
+    <state width="1323" height="130" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602426649177" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right" timestamp="1602498423664">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1323" height="2" key="GridCell.Tab.0.right/-1366.312.1366.728/0.0.1920.1040@-1366.312.1366.728" timestamp="1601213454488" />
-    <state width="1877" height="290" key="GridCell.Tab.0.right/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1602320646989" />
-    <state width="1323" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602383533452" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right/-1366.312.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1602498423664" />
+    <state width="1323" height="130" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602426649177" />
     <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1602241355969">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
